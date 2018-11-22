@@ -1,0 +1,11 @@
+
+
+demo:https://daneden.github.io/animate.css/
+
+在class="animated fadeIn"   .animated是基类 ,fadeIn是动作类
+
+例如 
+1.$(".admin-right .iframe-big .iframe-box").removeClass("active animated bounceInRight");
+	$(iframe).addClass("active animated bounceInRight");
+	
+2.<div class="iframe-big  animated fadeInDown"></div>
